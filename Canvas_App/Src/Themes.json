@@ -2577,11 +2577,11 @@
           "propertyValuesMap": [
             {
               "property": "Color",
-              "value": "%Palette.TextMainColorInverted%"
+              "value": "AppStyles.Button.Color"
             },
             {
               "property": "Fill",
-              "value": "%Palette.PrimaryColor1%"
+              "value": "AppStyles.Button.Fill"
             },
             {
               "property": "Font",
